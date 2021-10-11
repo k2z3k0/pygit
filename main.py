@@ -1,0 +1,2 @@
+print('mój program')
+
